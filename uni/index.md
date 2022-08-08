@@ -117,7 +117,7 @@
 
 **Coursework:**
 - Short report/essay about Steve Neale's argument that *genres are defined by the qualities of similarity and difference*. [(Link)](https://antinatura.github.io/uni/documents/CW1.pdf)
-- Essay on how dystopia is developed in Katsuhiro Otomo's *Akira*. [(Link)](https://antinatura.github.io/uni/documents/CW2.pdf)
+- Essay on how dystopia is developed in Katsuhiro Otomo's *Akira* (1988). [(Link)](https://antinatura.github.io/uni/documents/CW2.pdf)
 
 **Grade:** A+
 
