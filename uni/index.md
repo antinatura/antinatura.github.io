@@ -58,8 +58,8 @@
 **Description:** Introduction to sociolinguistics and the connections between language, identity, and power. Examines a range of linguistic issues, including the idea of standardisation, how language is structured, and the ethics of modern communication.
 
 **Coursework:**
-- Presentation
-- Essay
+- Presentation on the discourse communities in my life.
+- Analysis of a piece of writing provided to me.
 
 **Grade:** B+
 
@@ -71,7 +71,7 @@
 
 **Coursework:**
 - Quizzes
-- Project
+- Implementation and presentation of two algorithms that solve the same problem. For the problem I chose string searching and implemented Boyer-Moore-Horspool and Rabin Karp algorithms. [(Link)](https://github.com/antinatura/CMP201)
 
 **Grade:** A
 
@@ -120,7 +120,5 @@
 - Essay on how dystopia is developed in Katsuhiro Otomo's *Akira* (1988). [(Link)](https://antinatura.github.io/uni/documents/CW2.pdf)
 
 **Grade:** A+
-
-*add coursework desc and links later*
 
 ## Year 3
