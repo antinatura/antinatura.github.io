@@ -48,8 +48,8 @@
 **Description:** Introduction to the issues and practicalities involved in securing computer systems and the framework within which computer security specialists would need to operate.
 
 **Coursework:**
-- Presentation
-- Report
+- Group presentation on cybersecurity laws in the UK and an another country (our group chose Russia).
+- A small research project related to an topic of computer security that interests me. I chose steganography. [(Link)](https://antinatura.github.io/uni/documents/CMP110_Unit2_Report.pdf).
 
 **Grade:** A
 
@@ -98,6 +98,8 @@
 **Description:** Introduction to parallel programming on shared memory and GPU architectures and the design techniques underpinning parallel applications, using a range of case studies drawn from typical real-world applications.
 
 **Coursework:**
+- Quizzes
+- Code and present a program that demonstrates the use of CPU or GPU multithreading in C++. Using a template provided to me I developed a multihreaded calculation of the mandelbrot set that outputs a progress bar on runtime. [(Link)](https://github.com/antinatura/CMP202)
 
 **Grade:** A
 
@@ -114,8 +116,8 @@
 **Description:** Introduction to the cultural codes and formal content underlying the composition of popular cultural genres, as these are realised traditionally through films, and more contemporaneously through video games.
 
 **Coursework:**
-- Essay
-- Essay
+- Short report/essay about Steve Neale's argument that *genres are defined by the qualities of similarity and difference*. [(Link)](https://antinatura.github.io/uni/documents/CW1.pdf)
+- Essay on how dystopia is developed in Katsuhiro Otomo's *Akira*. [(Link)](https://antinatura.github.io/uni/documents/CW2.pdf)
 
 **Grade:** A+
 
