@@ -8,7 +8,7 @@
 
 **Coursework:**
 - Portfolio
-- Project
+- Project. Create something using the provided Wemos kit. I chose to create a Morse code encoder/decoder.
 - Exam
 
 **Grade:** B+
@@ -19,7 +19,7 @@
 
 **Coursework:**
 - Portfolio
-- Project
+- Project - cyber pet (a simple, interactive program that simulates taking care of a pet).
 
 **Grade:** A+
 
@@ -39,7 +39,7 @@
 
 **Coursework:**
 - Porfolio
-- Project
+- Project - a simulation of a game of darts.
 
 **Grade:** B+
 
@@ -81,7 +81,7 @@
 
 **Coursework:**
 - Quiz
-- Project
+- Develop a web application based around a musical band or solo artist making use of client-side and server-side dynamic content. For my artist I chose Beach House.
 
 **Grade:** A+
 
@@ -89,7 +89,7 @@
 
 **Description:** Develops an understanding of tools used in the industry to perform security analysis of a device or a network. Introduces the methodologies of penetration testing.
 
-**Coursework:** Report
+**Coursework:** Perform a security test on a typical company network and report the findings. I was given a virtual network of a fictitious company and had to follow penetration testing methodology to evaluate its security.
 
 **Grade:** A+
 
@@ -107,7 +107,7 @@
 
 **Description:** Examines the basic technology and techniques used to investigate cybercrime. A systematic approach to planning and implementing a comprehensive computer forensic investigation is introduced with a particular focus on evidence collection and the reconstruction of events therefrom.
 
-**Coursework:** Group project
+**Coursework:** Case study group project where members of the group must undertake a forensic investigation of a computer seized under the suspicion of it containing illicit materials (in this scenario they were pictures of birds).
 
 **Grade:** A+
 
