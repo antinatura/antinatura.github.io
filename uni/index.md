@@ -7,8 +7,14 @@
 **Description:** Introduction to the core ideas of computer architecture for students studying the subject of computing, building a mental model of the functioning of a typical computer system that can be used to reason about system (hardware/software) behaviour.
 
 **Coursework:**
-- Portfolio
-- Project. Create something using the provided Wemos kit. I chose to create a Morse code encoder/decoder.
+- Lab exercises:
+  - Hardware Identification and System Profiling
+  - Data Representation
+  - Boolean Logic and Hexadecimal
+  - Logic Circuit - Adders, Registers and Counters
+  - Bits and PCs
+  - Bit Twiddling in C++
+- Integrative exercise. Create something using the provided Wemos kit. I chose to create a Morse code encoder/decoder.
 - Exam
 
 **Grade:** B+
@@ -28,7 +34,7 @@
 **Description:** Introduction to computer networks through an analysis of basic networking fundamentals.
 
 **Coursework:**
-- Portfolio exercies:
+- Lab exercises:
   - Wireshark HTTP
   - Wireshark FTP
   - IP Calculation
@@ -44,7 +50,7 @@
 
 **Coursework:**
 - Porfolio
-- Project - a simulation of a game of darts.
+- Project - develop a program that simulates a 501 darts game.
 
 **Grade:** B+
 
@@ -75,7 +81,7 @@
 **Description:** Introduction to the standard data structures and algorithms that form the core of algorithmic thought in computer science, and the idea of reasoning about the behaviour and performance of a computer program.
 
 **Coursework:**
-- Quizzes
+- Weekly quizzes
 - Implementation and presentation of two algorithms that solve the same problem. For the problem I chose string searching and implemented Boyer-Moore-Horspool and Rabin Karp algorithms. [(Link)](https://github.com/antinatura/CMP201)
 
 **Grade:** A
@@ -103,7 +109,7 @@
 **Description:** Introduction to parallel programming on shared memory and GPU architectures and the design techniques underpinning parallel applications, using a range of case studies drawn from typical real-world applications.
 
 **Coursework:**
-- Quizzes
+- Weekly quizzes
 - Code and present a program that demonstrates the use of CPU or GPU multithreading in C++. Using a template provided to me I developed a multihreaded calculation of the mandelbrot set that outputs a progress bar on runtime. [(Link)](https://github.com/antinatura/CMP202)
 
 **Grade:** A
