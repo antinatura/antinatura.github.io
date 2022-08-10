@@ -24,7 +24,8 @@
 **Description:** Introduction of fundamental programming constructs within the C++ language. A problem-based approach to develop skills fundamental to all object-oriented programming languages.
 
 **Coursework:**
-- Portfolio
+- Weekly quizzes
+- Coding exercises
 - Project - cyber pet (a simple, interactive program that simulates taking care of a pet).
 
 **Grade:** A+
@@ -49,7 +50,10 @@
 **Description:** Practical introduction to some of the fundamental ideas of software engineering, enabling students to develop and communicate designs for small and large scale software systems.
 
 **Coursework:**
-- Porfolio
+- Portfolio:
+  - Weekly quizzes
+  - Coding exercies
+  - Software design exercises
 - Project - develop a program that simulates a 501 darts game.
 
 **Grade:** B+
