@@ -28,7 +28,12 @@
 **Description:** Introduction to computer networks through an analysis of basic networking fundamentals.
 
 **Coursework:**
-- Portfolio
+- Portfolio exercies:
+  - Wireshark HTTP
+  - Wireshark FTP
+  - IP Calculation
+  - Cisco Packet Tracer Network
+  - Python Network Programming
 - Exam
 
 **Grade:** A+
@@ -89,7 +94,7 @@
 
 **Description:** Develops an understanding of tools used in the industry to perform security analysis of a device or a network. Introduces the methodologies of penetration testing.
 
-**Coursework:** Perform a security test on a typical company network and report the findings. I was given a virtual network of a fictitious company and had to follow penetration testing methodology to evaluate its security.
+**Coursework:** Perform a security test on a typical company network and report the findings. I was given a virtual network of a fictitious company and had to follow penetration testing methodology to evaluate its security. [(Link)](https://antinatura.github.io/uni/documents/CMP210_pentest_report.pdf)
 
 **Grade:** A+
 
