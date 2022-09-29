@@ -122,7 +122,7 @@
 
 **Description:** Examines the basic technology and techniques used to investigate cybercrime. A systematic approach to planning and implementing a comprehensive computer forensic investigation is introduced with a particular focus on evidence collection and the reconstruction of events therefrom.
 
-**Coursework:** Case study group project where members of the group must undertake a forensic investigation of a computer seized under the suspicion of it containing illicit materials (in this scenario they were pictures of birds).
+**Coursework:** Case study group project where members of the group must undertake a forensic investigation of a computer seized under the suspicion of it containing illicit materials (in this scenario they were pictures of birds). [(Link)](https://antinatura.github.io/uni/documents/JASAN_Digital_Forensics_JohnDoeCase.pdf)
 
 **Grade:** A+
 
