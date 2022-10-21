@@ -96,7 +96,7 @@
 
 **Coursework:**
 - Quiz
-- Develop a web application based around a musical band or solo artist making use of client-side and server-side dynamic content. For my artist I chose Beach House.
+- Develop a web application based around a musical band or solo artist making use of client-side and server-side dynamic content. For my artist I chose Beach House. [(Link)](https://github.com/antinatura/CMP204)
 
 **Grade:** A+
 
