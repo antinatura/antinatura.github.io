@@ -76,7 +76,7 @@ Here I've included what is most of the assessed coursework I've created for BSc 
 
 **Coursework:**
 - Presentation on the discourse communities in my life.
-- Analysis of a piece of writing provided to me. [(Link)](https://antinatura.github.io/uni/documents/Assessment_2.pdf)
+- Analysis of a piece of writing provided to me. [(Link)](https://antinatura.github.io/uni/documents/Assignment_2.pdf)
 
 **Grade:** B+
 
