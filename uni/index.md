@@ -1,6 +1,6 @@
 # Uni portfolio
 
-Here I've included what is most of the assessed coursework I've created for BSc (Hons) Ethical Hacking so far. I hope whoever stumbles upon this finds it useful. I also hope that it is obvious not to plagiarise this (you will be found out). Thank You! :)  
+Here I've included what is most of the assessed coursework I've created for BSc (Hons) Ethical Hacking (and electives) so far. I hope whoever stumbles upon this finds it useful. I also hope that it is obvious not to plagiarise this (you will be found out). Thank You! :)  
 
 ## Year 1
 
@@ -139,3 +139,7 @@ Here I've included what is most of the assessed coursework I've created for BSc 
 **Grade:** A+
 
 ## Year 3
+
+### CMP 308 – Professional Project Planning and Prototyping
+### CMP 314 – Computer Networking 2
+### CMP 319 – Web Application Penetration Testing
