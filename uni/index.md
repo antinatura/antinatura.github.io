@@ -1,5 +1,7 @@
 # Uni portfolio
 
+Here I've included what is most of the assessed coursework I've created for BSc (Hons) Ethical Hacking so far. I hope whoever stumbles upon this finds it useful. I also hope that it is obvious not to plagiarise this (you will be found out). Thank You! :)  
+
 ## Year 1
 
 ### CMP 101 - Computer Hardware Architecture and Operating Systems
@@ -74,7 +76,7 @@
 
 **Coursework:**
 - Presentation on the discourse communities in my life.
-- Analysis of a piece of writing provided to me.
+- Analysis of a piece of writing provided to me. [(Link)](https://antinatura.github.io/uni/documents/Assessment_2.pdf)
 
 **Grade:** B+
 
