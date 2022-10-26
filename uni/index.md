@@ -92,7 +92,7 @@ Here I've included what is most of the assessed coursework I've created for BSc 
 
 **Grade:** A
 
-### CMP 204 – Dynamic Web Development 1 
+### CMP 204 – Secure Web Development (FKA Dynamic Web Development 1) 
 
 **Description:** Introduction to dynamic web applications, through client-side and server-side internet development.
 
@@ -102,7 +102,7 @@ Here I've included what is most of the assessed coursework I've created for BSc 
 
 **Grade:** A+
 
-### CMP 210 – Ethical Hacking 1
+### CMP 210 – Penetration Testing (FKA Ethical Hacking 1)
 
 **Description:** Develops an understanding of tools used in the industry to perform security analysis of a device or a network. Introduces the methodologies of penetration testing.
 
