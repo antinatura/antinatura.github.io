@@ -49,7 +49,7 @@ Here I've included what is most of the assessed coursework I've created for BSc 
 
 ### CMP 102 - Software Design
 
-**Description:** Practical introduction to some of the fundamental ideas of software engineering, enabling students to develop and communicate designs for small and large scale software systems.
+**Description:** Establishes an understanding of some of the fundamental ideas of software engineering, enabling students to develop and communicate designs for small and large scale software systems.
 
 **Coursework:**
 - Portfolio:
@@ -72,7 +72,7 @@ Here I've included what is most of the assessed coursework I've created for BSc 
 
 ### ELE 019 - The Secret Life of Language
 
-**Description:** Introduction to sociolinguistics and the connections between language, identity, and power. Examines a range of linguistic issues, including the idea of standardisation, how language is structured, and the ethics of modern communication.
+**Description:** Foundations of sociolinguistics and the connections between language, identity, and power. Examines a range of linguistic issues, including the idea of standardisation, how language is structured, and the ethics of modern communication.
 
 **Coursework:**
 - Presentation on the discourse communities in my life.
@@ -84,7 +84,7 @@ Here I've included what is most of the assessed coursework I've created for BSc 
 
 ### CMP 201 – Data Structures and Algorithms 1
 
-**Description:** Introduction to the standard data structures and algorithms that form the core of algorithmic thought in computer science, and the idea of reasoning about the behaviour and performance of a computer program.
+**Description:** Looks at the standard data structures and algorithms that form the core of algorithmic thought in computer science, and the idea of reasoning about the behaviour and performance of a computer program.
 
 **Coursework:**
 - Weekly quizzes
@@ -112,7 +112,7 @@ Here I've included what is most of the assessed coursework I've created for BSc 
 
 ### CMP 202 – Data Structures and Algorithms 2
 
-**Description:** Introduction to parallel programming on shared memory and GPU architectures and the design techniques underpinning parallel applications, using a range of case studies drawn from typical real-world applications.
+**Description:** Foundations of parallel programming on shared memory and GPU architectures and the design techniques underpinning parallel applications, using a range of case studies drawn from typical real-world applications.
 
 **Coursework:**
 - Weekly quizzes
@@ -130,7 +130,7 @@ Here I've included what is most of the assessed coursework I've created for BSc 
 
 ### ELE 012 – Film and Game Genres
 
-**Description:** Introduction to the cultural codes and formal content underlying the composition of popular cultural genres, as these are realised traditionally through films, and more contemporaneously through video games.
+**Description:** Studies the cultural codes and formal content underlying the composition of popular cultural genres, as these are realised traditionally through films, and more contemporaneously through video games.
 
 **Coursework:**
 - Short report/essay about Steve Neale's argument that *genres are defined by the qualities of similarity and difference*. [(Link)](https://antinatura.github.io/uni/documents/CW1.pdf)
@@ -141,5 +141,16 @@ Here I've included what is most of the assessed coursework I've created for BSc 
 ## Year 3
 
 ### CMP 308 – Professional Project Planning and Prototyping
+
+**Description:** Teaches project management concepts to create a project proposal in a professional manner. Tasks student teams with project briefs by industry/or research based problems. Expects full team engagement in roles by communicating effectively with project stakeholders, contributing to the planning of the project, developing artefacts or prototypes, writing associated documentation, and creating and presenting the client pitch.
+
 ### CMP 314 – Computer Networking 2
+
+**Description:** Analyses the ideas and concepts of how computers, mobile devices and gadgets communicate via a wide range of communications technologies with each other and other devices. This will include interactions via technologies such as Ethernet, VLANS, STP, Wireless, Routing, Subnetting, IPv6, SNMP, DHCP, DNS, Firewalls and Network Management
+
 ### CMP 319 – Web Application Penetration Testing
+
+**Description:** Examines advanced techniques used by Ethical Hackers to investigate the security of web applications. 
+
+
+
