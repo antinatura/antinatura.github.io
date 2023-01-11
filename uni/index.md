@@ -1,6 +1,6 @@
 # Uni portfolio
 
-Here I've included what is most of the assessed coursework I've created for BSc (Hons) Ethical Hacking (and electives) so far. I hope whoever stumbles upon this finds it useful. I also hope that it is obvious not to plagiarise this (you will be found out). Thank You! :)  
+Here I've included what is most of the assessed coursework I've created for BSc (Hons) Ethical Hacking (and electives) so far. Hopefully someone finds it uesful. Feel free to draw ideas from this but do not straight up plagiarise because you'll be found out :)  
 
 ## Year 1
 
@@ -116,7 +116,7 @@ Here I've included what is most of the assessed coursework I've created for BSc 
 
 **Coursework:**
 - Weekly quizzes
-- Code and present a program that demonstrates the use of CPU or GPU multithreading in C++. Using a template provided to me I developed a multihreaded calculation of the mandelbrot set that outputs a progress bar on runtime. [(Link)](https://github.com/antinatura/CMP202)
+- Code and present a program that demonstrates the use of CPU or GPU multithreading in C++. Using a template provided to me, I developed a multihreaded calculation of the mandelbrot set that outputs a progress bar on runtime. [(Link)](https://github.com/antinatura/CMP202)
 
 **Grade:** A
 
@@ -142,15 +142,33 @@ Here I've included what is most of the assessed coursework I've created for BSc 
 
 ### CMP 308 – Professional Project Planning and Prototyping
 
-**Description:** Teaches project management concepts to create a project proposal in a professional manner. Tasks student teams with project briefs by industry/or research based problems. Expects full team engagement in roles by communicating effectively with project stakeholders, contributing to the planning of the project, developing artefacts or prototypes, writing associated documentation, and creating and presenting the client pitch.
+**Description:** Teaches project management concepts to create a project proposal in a professional manner. Tasks student teams with project briefs drawn from industry/or research based problems. Expects full team engagement in roles by communicating effectively with project stakeholders, contributing to the planning of the project, developing artefacts or prototypes, writing associated documentation, and creating and presenting the client pitch.
+
+**Coursework:**
+- Create and present a client pitch for the project that the team was assigned. 
+- Create a project proposal with a business case and project management plan that addresses in detail how the team will execute the assigned project in the follow-up module next term in CMP311 - Professional Project Development and Delivery.
+
+**Grade:**
 
 ### CMP 314 – Computer Networking 2
 
 **Description:** Analyses the ideas and concepts of how computers, mobile devices and gadgets communicate via a wide range of communications technologies with each other and other devices. This will include interactions via technologies such as Ethernet, VLANS, STP, Wireless, Routing, Subnetting, IPv6, SNMP, DHCP, DNS, Firewalls and Network Management
 
+**Coursework:**
+Company network security evaluation. I was given a Kali Linux machine connected to a network which I then had to map out and evaluate both from security and design aspects using the tools available on the provided machine.   
+
+**Grade:**
+
 ### CMP 319 – Web Application Penetration Testing
 
 **Description:** Examines advanced techniques used by Ethical Hackers to investigate the security of web applications. 
 
+**Coursework:** Conduct a penetration test on a web application by following an applicable methodology and document the procedure and findings. I was given a fictitious web application on which to perform a penetration test to simulate the risks from an attacker who has a valid account on the applicatioon.
 
+**Grade:**
 
+### CMP 309 – Software Development for Mobile Devices
+
+### CMP 311 – Professional Project Development and Delivery
+
+### CMP 319 – Advanced Ethical Hacking
