@@ -3,3 +3,9 @@ author: "Ance Strazdina"
 description: 3rd year Ethical Hacking
 
 theme: minima
+
+include:
+    - _pages
+    
+header_pages:
+  - _pages/uni.md
