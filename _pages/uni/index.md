@@ -1,3 +1,9 @@
+---
+permalink: /uni
+layout: page
+title: Uni Portfolio
+---
+
 # Uni portfolio
 
 Here I've included what is most of the assessed coursework I've created for BSc (Hons) Ethical Hacking (and electives) so far. Hopefully someone finds it uesful. Feel free to draw ideas from this but do not straight up plagiarise because you'll be found out :)  
