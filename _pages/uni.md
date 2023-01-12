@@ -72,7 +72,7 @@ Here I've included what is most of the assessed coursework I've created for BSc 
 
 **Coursework:**
 - Group presentation on cybersecurity laws in the UK and an another country (our group chose Russia).
-- A small research project related to an topic of computer security that interests me. I chose steganography. [(Link)](https://antinatura.github.io/uni/documents/CMP110_Unit2_Report.pdf).
+- A small research project related to an topic of computer security that interests me. I chose steganography. [(Link)](https://antinatura.github.io/documents/uni/CMP110_Unit2_Report.pdf).
 
 **Grade:** A
 
@@ -82,7 +82,7 @@ Here I've included what is most of the assessed coursework I've created for BSc 
 
 **Coursework:**
 - Presentation on the discourse communities in my life.
-- Analysis of a piece of writing provided to me. [(Link)](https://antinatura.github.io/uni/documents/Assignment_2.pdf)
+- Analysis of a piece of writing provided to me. [(Link)](https://antinatura.github.io/documents/uni/Assignment_2.pdf)
 
 **Grade:** B+
 
@@ -112,7 +112,7 @@ Here I've included what is most of the assessed coursework I've created for BSc 
 
 **Description:** Develops an understanding of tools used in the industry to perform security analysis of a device or a network. Introduces the methodologies of penetration testing.
 
-**Coursework:** Perform a security test on a typical company network and report the findings. I was given a virtual network of a fictitious company and had to follow penetration testing methodology to evaluate its security. [(Link)](https://antinatura.github.io/uni/documents/CMP210_pentest_report.pdf)
+**Coursework:** Perform a security test on a typical company network and report the findings. I was given a virtual network of a fictitious company and had to follow penetration testing methodology to evaluate its security. [(Link)](https://antinatura.github.io/documents/uni/CMP210_pentest_report.pdf)
 
 **Grade:** A+
 
@@ -130,7 +130,7 @@ Here I've included what is most of the assessed coursework I've created for BSc 
 
 **Description:** Examines the basic technology and techniques used to investigate cybercrime. A systematic approach to planning and implementing a comprehensive computer forensic investigation is introduced with a particular focus on evidence collection and the reconstruction of events therefrom.
 
-**Coursework:** Case study group project where members of the group must undertake a forensic investigation of a computer seized under the suspicion of it containing illicit materials (in this scenario they were pictures of birds). [(Link)](https://antinatura.github.io/uni/documents/JASAN_Digital_Forensics_JohnDoeCase.pdf)
+**Coursework:** Case study group project where members of the group must undertake a forensic investigation of a computer seized under the suspicion of it containing illicit materials (in this scenario they were pictures of birds). [(Link)](https://antinatura.github.io/documents/uni/JASAN_Digital_Forensics_JohnDoeCase.pdf)
 
 **Grade:** A+
 
@@ -139,8 +139,8 @@ Here I've included what is most of the assessed coursework I've created for BSc 
 **Description:** Studies the cultural codes and formal content underlying the composition of popular cultural genres, as these are realised traditionally through films, and more contemporaneously through video games.
 
 **Coursework:**
-- Short report/essay about Steve Neale's argument that *genres are defined by the qualities of similarity and difference*. [(Link)](https://antinatura.github.io/uni/documents/CW1.pdf)
-- Essay on how dystopia is developed in Katsuhiro Otomo's *Akira* (1988). [(Link)](https://antinatura.github.io/uni/documents/CW2.pdf)
+- Short report/essay about Steve Neale's argument that *genres are defined by the qualities of similarity and difference*. [(Link)](https://antinatura.github.io/documents/uni/CW1.pdf)
+- Essay on how dystopia is developed in Katsuhiro Otomo's *Akira* (1988). [(Link)](https://antinatura.github.io/documents/uni/CW2.pdf)
 
 **Grade:** A+
 
