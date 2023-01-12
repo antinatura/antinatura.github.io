@@ -1,5 +1,5 @@
 ---
-permalink: /uni
+permalink: /uni/
 layout: page
 title: Uni Portfolio
 ---
