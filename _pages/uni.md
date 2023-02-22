@@ -173,6 +173,24 @@ Company network security evaluation. I was given a Kali Linux machine connected 
 
 ### CMP 309 – Software Development for Mobile Devices
 
+**Description:** Develops a critical understanding of software development practices used to create applications for a range of mobile devices.
+
+**Coursework:**
+
+**Grade:**
+
 ### CMP 311 – Professional Project Development and Delivery
 
+**Description:** Focuses on delivering the project which was planned and conceptualised in CMP308 - Professional Project Planning and Prototyping during Term 1.
+
+**Coursework:**
+
+**Grade:**
+
 ### CMP 319 – Advanced Ethical Hacking
+
+**Description:** Covers different areas of Ethical Hacking and is geared towards personal research and experimentation. The three major topics included are scripting, malware analysis and binary auditing.
+
+**Coursework:**
+
+**Grade:**
