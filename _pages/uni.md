@@ -159,17 +159,17 @@ Here I've included what is most of the assessed coursework I've created for BSc 
 **Description:** Analyses the ideas and concepts of how computers, mobile devices and gadgets communicate via a wide range of communications technologies with each other and other devices. This will include interactions via technologies such as Ethernet, VLANS, STP, Wireless, Routing, Subnetting, IPv6, SNMP, DHCP, DNS, Firewalls and Network Management
 
 **Coursework:**
-Company network security evaluation. I was given a Kali Linux machine connected to a network which I then had to map out and evaluate both from security and design aspects using the tools available on the provided machine.   
+Company network security evaluation. I was given a Kali Linux machine connected to a network which I then had to map out and evaluate both from security and design aspects using the tools available on the provided machine. [(Link)](https://antinatura.github.io/documents/uni/CMP314_CW.pdf).
 
-**Grade:**
+**Grade:** A
 
 ### CMP 319 – Web Application Penetration Testing
 
 **Description:** Examines advanced techniques used by Ethical Hackers to investigate the security of web applications. 
 
-**Coursework:** Conduct a penetration test on a web application by following an applicable methodology and document the procedure and findings. I was given a fictitious web application on which to perform a penetration test to simulate the risks from an attacker who has a valid account on the applicatioon.
+**Coursework:** Conduct a penetration test on a web application by following an applicable methodology and document the procedure and findings. I was given a fictitious web application on which to perform a penetration test to simulate the risks from an attacker who has a valid account on the applicatioon. [(Link)](https://antinatura.github.io/documents/uni/CMP319_CW_AstleySkateshop.pdf).
 
-**Grade:**
+**Grade:** A
 
 ### CMP 309 – Software Development for Mobile Devices
 
