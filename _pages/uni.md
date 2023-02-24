@@ -152,7 +152,7 @@ Here I've included what is most of the assessed coursework I've created for BSc 
 - Create and present a client pitch for the project that the team was assigned. 
 - Create a project proposal with a business case and project management plan that addresses in detail how the team will execute the assigned project in the follow-up module next term in CMP311 - Professional Project Development and Delivery.
 
-**Grade:**
+**Grade:** A+
 
 ### CMP 314 – Computer Networking 2
 
