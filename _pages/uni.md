@@ -10,7 +10,7 @@ Here I've included what is most of the assessed coursework I've created for BSc 
 
 ### CMP 101 - Computer Hardware Architecture and Operating Systems
 <details markdown = block>
-<summary markdown = span>CMP 101 - Computer Hardware Architecture and Operating Systems</summary>
+  <summary markdown = span><h3>CMP 101 - Computer Hardware Architecture and Operating Systems</h3></summary>
   
 **Description:** Introduction to the core ideas of computer architecture for students studying the subject of computing, building a mental model of the functioning of a typical computer system that can be used to reason about system (hardware/software) behaviour.
 
@@ -29,8 +29,8 @@ Here I've included what is most of the assessed coursework I've created for BSc 
   
 </details>
 
-
-### CMP 104 - Programming with C++
+<details markdown = block>
+  <summary markdown = span><h3>CMP 104 - Programming with C++</h3></summary>
 
 **Description:** Introduction of fundamental programming constructs within the C++ language. A problem-based approach to develop skills fundamental to all object-oriented programming languages.
 
@@ -41,6 +41,8 @@ Here I've included what is most of the assessed coursework I've created for BSc 
 
 **Grade:** A+
 
+</details>
+  
 ### CMP 109 - Computer Networking 1
 
 **Description:** Introduction to computer networks through an analysis of basic networking fundamentals.
