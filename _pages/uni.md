@@ -9,7 +9,8 @@ Here I've included what is most of the assessed coursework I've created for BSc 
 ## Year 1
 
 <details markdown = 1>
-  <summary>CMP 101 - Computer Hardware Architecture and Operating Systems</summary>
+  <summary><b>CMP 101 - Computer Hardware Architecture and Operating Systems</b></summary>
+  <br>
   
 **Description:** Introduction to the core ideas of computer architecture for students studying the subject of computing, building a mental model of the functioning of a typical computer system that can be used to reason about system (hardware/software) behaviour.
 
