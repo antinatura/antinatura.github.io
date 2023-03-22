@@ -9,7 +9,8 @@ Here I've included what is most of the assessed coursework I've created for BSc 
 ## Year 1
 
 ### CMP 101 - Computer Hardware Architecture and Operating Systems
-
+<details>
+  <summary><h3>CMP 101 - Computer Hardware Architecture and Operating Systemse</h3></summary>
 **Description:** Introduction to the core ideas of computer architecture for students studying the subject of computing, building a mental model of the functioning of a typical computer system that can be used to reason about system (hardware/software) behaviour.
 
 **Coursework:**
@@ -24,6 +25,8 @@ Here I've included what is most of the assessed coursework I've created for BSc 
 - Exam
 
 **Grade:** B+
+</details>
+
 
 ### CMP 104 - Programming with C++
 
@@ -70,7 +73,7 @@ Here I've included what is most of the assessed coursework I've created for BSc 
 
 **Coursework:**
 - Group presentation on cybersecurity laws in the UK and an another country (our group chose Russia).
-- A small research project related to an topic of computer security that interests me. I chose steganography. [(Link)](https://antinatura.github.io/documents/uni/CMP110_Unit2_Report.pdf).
+- A small research project related to an topic of computer security that interests me. I chose steganography. [(Link)](https://antinatura.github.io/documents/uni/CMP110_Unit2_Report.pdf)
 
 **Grade:** A
 
@@ -83,7 +86,7 @@ Here I've included what is most of the assessed coursework I've created for BSc 
 - Analysis of a piece of writing provided to me. [(Link)](https://antinatura.github.io/documents/uni/Assignment_2.pdf)
 
 **Grade:** B+
-
+  
 ## Year 2
 
 ### CMP 201 – Data Structures and Algorithms 1
@@ -159,7 +162,7 @@ Here I've included what is most of the assessed coursework I've created for BSc 
 **Description:** Analyses the ideas and concepts of how computers, mobile devices and gadgets communicate via a wide range of communications technologies with each other and other devices. This will include interactions via technologies such as Ethernet, VLANS, STP, Wireless, Routing, Subnetting, IPv6, SNMP, DHCP, DNS, Firewalls and Network Management
 
 **Coursework:**
-Company network security evaluation. I was given a Kali Linux machine connected to a network which I then had to map out and evaluate both from security and design aspects using the tools available on the provided machine. [(Link)](https://antinatura.github.io/documents/uni/CMP314_CW.pdf).
+Company network security evaluation. I was given a Kali Linux machine connected to a network which I then had to map out and evaluate both from security and design aspects using the tools available on the provided machine. [(Link)](https://antinatura.github.io/documents/uni/CMP314_CW.pdf)
 
 **Grade:** A
 
@@ -167,7 +170,7 @@ Company network security evaluation. I was given a Kali Linux machine connected 
 
 **Description:** Examines advanced techniques used by Ethical Hackers to investigate the security of web applications. 
 
-**Coursework:** Conduct a penetration test on a web application by following an applicable methodology and document the procedure and findings. I was given a fictitious web application on which to perform a penetration test to simulate the risks from an attacker who has a valid account on the applicatioon. [(Link)](https://antinatura.github.io/documents/uni/CMP319_CW_AstleySkateshop.pdf).
+**Coursework:** Conduct a penetration test on a web application by following an applicable methodology and document the procedure and findings. I was given a fictitious web application on which to perform a penetration test to simulate the risks from an attacker who has a valid account on the applicatioon. [(Link)](https://antinatura.github.io/documents/uni/CMP319_CW_AstleySkateshop.pdf)
 
 **Grade:** A
 
