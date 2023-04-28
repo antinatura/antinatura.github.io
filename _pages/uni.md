@@ -221,7 +221,7 @@ Company network security evaluation. I was given a Kali Linux machine connected 
 
 **Description:** Develops a critical understanding of software development practices used to create applications for a range of mobile devices.
 
-**Coursework:**
+**Coursework:** Develop an Android application.
 
 **Grade:**
 
@@ -233,6 +233,8 @@ Company network security evaluation. I was given a Kali Linux machine connected 
 **Description:** Focuses on delivering the project which was planned and conceptualised in CMP308 - Professional Project Planning and Prototyping during Term 1.
 
 **Coursework:**
+- Create a presentation of the project findings. 
+- Create a report of the project findings.
 
 **Grade:**
 
@@ -244,6 +246,8 @@ Company network security evaluation. I was given a Kali Linux machine connected 
 **Description:** Covers different areas of Ethical Hacking and is geared towards personal research and experimentation. The three major topics included are scripting, malware analysis and binary auditing.
 
 **Coursework:**
+- Malware analysis
+- Scripting project
 
 **Grade:**
 
