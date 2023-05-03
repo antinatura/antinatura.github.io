@@ -233,8 +233,8 @@ Company network security evaluation. I was given a Kali Linux machine connected 
 **Description:** Focuses on delivering the project which was planned and conceptualised in CMP308 - Professional Project Planning and Prototyping during Term 1.
 
 **Coursework:**
-- Create a presentation of the project findings. 
-- Create a report of the project findings.
+- Create a presentation of the project findings demonstrating the quality of the finished product or investigation.
+- Create a report of the project findings discussing what was done to deliver the planned project.
 
 **Grade:**
 
@@ -246,8 +246,8 @@ Company network security evaluation. I was given a Kali Linux machine connected 
 **Description:** Covers different areas of Ethical Hacking and is geared towards personal research and experimentation. The three major topics included are scripting, malware analysis and binary auditing.
 
 **Coursework:**
-- Malware analysis
-- Scripting project
+- Malware analysis. I was provided with a Windows virtual machine with a Flare VM installation and 9 malware samples. I had to choose one sample and perform a malware analysis investigation on it.
+- Scripting project. Develop a script related to some area of cybersecurity and produce a report documenting the process. I chose to create a tool that visualises website cookie values over time. 
 
 **Grade:**
 
