@@ -246,8 +246,8 @@ Company network security evaluation. I was given a Kali Linux machine connected 
 **Description:** Covers different areas of Ethical Hacking and is geared towards personal research and experimentation. The three major topics included are scripting, malware analysis and binary auditing.
 
 **Coursework:**
-- Malware analysis. I was provided with a Windows virtual machine with a Flare VM installation and 9 malware samples. I had to choose one sample and perform a malware analysis investigation on it.
-- Scripting project. Develop a script related to some area of cybersecurity and produce a report documenting the process. I chose to create a tool that visualises website cookie values over time. 
+- Malware analysis. I was provided with a Windows virtual machine with a Flare VM installation and 9 malware samples. I had to choose one sample and perform a malware analysis investigation on it. [(Link)](https://antinatura.github.io/documents/uni/CMP320_U1_MalwareAnalysis.pdf)
+- Scripting project. Develop a script related to some area of cybersecurity and produce a report documenting the process. I chose to create a tool that visualises website cookie values over time. [(Link)](https://antinatura.github.io/documents/uni/CMP320_U2_ScriptingMiniProject.pdf)
 
 **Grade:**
 
