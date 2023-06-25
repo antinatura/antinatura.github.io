@@ -221,7 +221,7 @@ Company network security evaluation. I was given a Kali Linux machine connected 
 
 **Description:** Develops a critical understanding of software development practices used to create applications for a range of mobile devices.
 
-**Coursework:** Develop an Android application.
+**Coursework:** Develop an Android application. I created an implementation of a biodynamic calendar in Java. [(Link)](https://github.com/antinatura/CMP309-Biodynamic-Calendar)
 
 **Grade:**
 
