@@ -83,7 +83,7 @@ Here I've included what is most of the assessed coursework I've created for BSc 
 
 **Coursework:**
 - Group presentation on cybersecurity laws in the UK and an another country (our group chose Russia).
-- A small research project related to an topic of computer security that interests me. I chose steganography. [(Link)](https://antinatura.github.io/documents/uni/CMP110_Unit2_Report.pdf)
+- A small research project related to an topic of computer security that interests me. I chose steganography. [(Link)](https://antinatura.github.io/assets/documents/CMP110_Unit2_Report.pdf)
 
 **Grade:** A
 
@@ -96,7 +96,7 @@ Here I've included what is most of the assessed coursework I've created for BSc 
 
 **Coursework:**
 - Presentation on the discourse communities in my life.
-- Analysis of a piece of writing provided to me. [(Link)](https://antinatura.github.io/documents/uni/Assignment_2.pdf)
+- Analysis of a piece of writing provided to me. [(Link)](https://antinatura.github.io/assets/documents/Assignment_2.pdf)
 
 **Grade:** B+
 
@@ -135,7 +135,7 @@ Here I've included what is most of the assessed coursework I've created for BSc 
  
 **Description:** Develops an understanding of tools used in the industry to perform security analysis of a device or a network. Introduces the methodologies of penetration testing.
 
-**Coursework:** Perform a security test on a typical company network and report the findings. I was given a virtual network of a fictitious company and had to follow penetration testing methodology to evaluate its security. [(Link)](https://antinatura.github.io/documents/uni/CMP210_pentest_report.pdf)
+**Coursework:** Perform a security test on a typical company network and report the findings. I was given a virtual network of a fictitious company and had to follow penetration testing methodology to evaluate its security. [(Link)](https://antinatura.github.io/assets/documents/CMP210_pentest_report.pdf)
 
 **Grade:** A+
 
@@ -159,7 +159,7 @@ Here I've included what is most of the assessed coursework I've created for BSc 
 
 **Description:** Examines the basic technology and techniques used to investigate cybercrime. A systematic approach to planning and implementing a comprehensive computer forensic investigation is introduced with a particular focus on evidence collection and the reconstruction of events therefrom.
 
-**Coursework:** Case study group project where members of the group must undertake a forensic investigation of a computer seized under the suspicion of it containing illicit materials (in this scenario they were pictures of birds). [(Link)](https://antinatura.github.io/documents/uni/JASAN_Digital_Forensics_JohnDoeCase.pdf)
+**Coursework:** Case study group project where members of the group must undertake a forensic investigation of a computer seized under the suspicion of it containing illicit materials (in this scenario they were pictures of birds). [(Link)](https://antinatura.github.io/assets/documents/JASAN_Digital_Forensics_JohnDoeCase.pdf)
 
 **Grade:** A+
 
@@ -171,8 +171,8 @@ Here I've included what is most of the assessed coursework I've created for BSc 
 **Description:** Studies the cultural codes and formal content underlying the composition of popular cultural genres, as these are realised traditionally through films, and more contemporaneously through video games.
 
 **Coursework:**
-- Short report/essay about Steve Neale's argument that *genres are defined by the qualities of similarity and difference*. [(Link)](https://antinatura.github.io/documents/uni/CW1.pdf)
-- Essay on how dystopia is developed in Katsuhiro Otomo's *Akira* (1988). [(Link)](https://antinatura.github.io/documents/uni/CW2.pdf)
+- Short report/essay about Steve Neale's argument that *genres are defined by the qualities of similarity and difference*. [(Link)](https://antinatura.github.io/assets/documents/CW1.pdf)
+- Essay on how dystopia is developed in Katsuhiro Otomo's *Akira* (1988). [(Link)](https://antinatura.github.io/assets/documents/CW2.pdf)
 
 **Grade:** A+
 
@@ -199,7 +199,7 @@ Here I've included what is most of the assessed coursework I've created for BSc 
 **Description:** Analyses the ideas and concepts of how computers, mobile devices and gadgets communicate via a wide range of communications technologies with each other and other devices. This will include interactions via technologies such as Ethernet, VLANS, STP, Wireless, Routing, Subnetting, IPv6, SNMP, DHCP, DNS, Firewalls and Network Management
 
 **Coursework:**
-Company network security evaluation. I was given a Kali Linux machine connected to a network which I then had to map out and evaluate both from security and design aspects using the tools available on the provided machine. [(Link)](https://antinatura.github.io/documents/uni/CMP314_CW.pdf)
+Company network security evaluation. I was given a Kali Linux machine connected to a network which I then had to map out and evaluate both from security and design aspects using the tools available on the provided machine. [(Link)](https://antinatura.github.io/assets/documents/CMP314_CW.pdf)
 
 **Grade:** A
 
@@ -210,7 +210,7 @@ Company network security evaluation. I was given a Kali Linux machine connected 
 
 **Description:** Examines advanced techniques used by Ethical Hackers to investigate the security of web applications. 
 
-**Coursework:** Conduct a penetration test on a web application by following an applicable methodology and document the procedure and findings. I was given a fictitious web application on which to perform a penetration test to simulate the risks from an attacker who has a valid account on the applicatioon. [(Link)](https://antinatura.github.io/documents/uni/CMP319_CW_AstleySkateshop.pdf)
+**Coursework:** Conduct a penetration test on a web application by following an applicable methodology and document the procedure and findings. I was given a fictitious web application on which to perform a penetration test to simulate the risks from an attacker who has a valid account on the applicatioon. [(Link)](https://antinatura.github.io/assets/documents/CMP319_CW_AstleySkateshop.pdf)
 
 **Grade:** A
 
@@ -246,8 +246,8 @@ Company network security evaluation. I was given a Kali Linux machine connected 
 **Description:** Covers different areas of Ethical Hacking and is geared towards personal research and experimentation. The three major topics included are scripting, malware analysis and binary auditing.
 
 **Coursework:**
-- Malware analysis. I was provided with a Windows virtual machine with a Flare VM installation and 9 malware samples. I had to choose one sample and perform a malware analysis investigation on it. [(Link)](https://antinatura.github.io/documents/uni/CMP320_U1_MalwareAnalysis.pdf)
-- Scripting project. Develop a script related to some area of cybersecurity and produce a report documenting the process. I chose to create a tool that visualises website cookie values over time. [(Link)](https://antinatura.github.io/documents/uni/CMP320_U2_ScriptingMiniProject.pdf)
+- Malware analysis. I was provided with a Windows virtual machine with a Flare VM installation and 9 malware samples. I had to choose one sample and perform a malware analysis investigation on it. [(Link)](https://antinatura.github.io/assets/documents/CMP320_U1_MalwareAnalysis.pdf)
+- Scripting project. Develop a script related to some area of cybersecurity and produce a report documenting the process. I chose to create a tool that visualises website cookie values over time. [(Link)](https://antinatura.github.io/assets/documents/CMP320_U2_ScriptingMiniProject.pdf)
 
 **Grade:**
 
