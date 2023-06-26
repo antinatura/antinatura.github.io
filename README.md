@@ -1,7 +1,3 @@
----
-title:
----
-
 ### Ance Strazdina
 
 #### *3rd (4th?) year Ethical Hacking student*
