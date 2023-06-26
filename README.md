@@ -1,5 +1,3 @@
-### Ance Strazdina
+### GitHub pages website
 
-#### *3rd (4th?) year Ethical Hacking student*
-
-This page is currently empty but my uni work is available [here](https://antinatura.github.io/uni/). 
+Personal website on GitHub pages where I currently put my uni work.
