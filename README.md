@@ -1,6 +1,4 @@
 ---
-permalink: /
-layout:
 title:
 ---
 
