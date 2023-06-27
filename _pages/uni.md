@@ -223,7 +223,7 @@ Company network security evaluation. I was given a Kali Linux machine connected 
 
 **Coursework:** Develop an Android application. I created an implementation of a biodynamic calendar in Java. [(Link)](https://github.com/antinatura/CMP309-Biodynamic-Calendar)
 
-**Grade:**
+**Grade:** A
 
 </details>
 
@@ -236,7 +236,7 @@ Company network security evaluation. I was given a Kali Linux machine connected 
 - Create a presentation of the project findings demonstrating the quality of the finished product or investigation.
 - Create a report of the project findings discussing what was done to deliver the planned project.
 
-**Grade:**
+**Grade:** A
 
 </details>
 
@@ -249,6 +249,6 @@ Company network security evaluation. I was given a Kali Linux machine connected 
 - Malware analysis. I was provided with a Windows virtual machine with a Flare VM installation and 9 malware samples. I had to choose one sample and perform a malware analysis investigation on it. [(Link)](https://antinatura.github.io/assets/documents/CMP320_U1_MalwareAnalysis.pdf)
 - Scripting project. Develop a script related to some area of cybersecurity and produce a report documenting the process. I chose to create a tool that visualises website cookie values over time. [(Link)](https://antinatura.github.io/assets/documents/CMP320_U2_ScriptingMiniProject.pdf)
 
-**Grade:**
+**Grade:** A+
 
 </details>
