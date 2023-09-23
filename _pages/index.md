@@ -8,4 +8,4 @@ title: Welcome
 
 ### Ance Strazdiņa
 #### 4th year Ethical Hacking student
-This page is currently empty but my uni work is available [here](https://antinatura.github.io/uni/).
+This page is currently very empty but my uni work is available [here](https://antinatura.github.io/uni/).
