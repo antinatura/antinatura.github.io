@@ -11,7 +11,7 @@ Here I've included what is most of the assessed coursework I've created for BSc 
 <details markdown = 1>
   <summary><b>CMP 101 - Computer Hardware Architecture and Operating Systems</b></summary>
   
-**Description:** Introduction to the core ideas of computer architecture for students studying the subject of computing, building a mental model of the functioning of a typical computer system that can be used to reason about system (hardware/software) behaviour.
+**Description:** Introduction to the core ideas of computer architecture, building a mental model of the functioning of a typical computer system that can be used to reason about system (hardware/software) behaviour.
 
 **Coursework:**
 - Lab exercises:
@@ -252,3 +252,39 @@ Company network security evaluation. I was given a Kali Linux machine connected 
 **Grade:** A+
 
 </details>
+
+## Year 4
+
+<details markdown = 1>
+  <summary><b>CMP 408 – IoT and Cloud Secure Development</b></summary>
+
+**Description:** Explores system programming and development in kernel and user space, also focusing on the security implications of such systems. Develops comprehension of system and device internal operations which includes understanding operating system internals and how new applications for these systems can be implemented in scenarios such as IoT deployments and how cloud and web technologies can be utilised in conjunction with such devices.
+
+**Coursework:**
+
+**Grade:**
+
+</details>
+
+<details markdown = 1>
+  <summary><b>CMP 416 – Advanced Digital Forensics</b></summary>
+
+**Description:** Looks at the forensic investigation of a network and the challenges analysts face when investigating network traffic. Provides students with an understanding of the underlying network principles important to comprehending network evidence. At the end of the module, students will be able to perform an investigation with a comprehensive, systematic approach to discover and examine evidence from networking infrastructure.
+
+**Coursework:**
+
+**Grade:**
+
+</details>
+
+<details markdown = 1>
+  <summary><b>CMP 400 – Honours Project Proposal and Execution</b></summary>
+
+**Description:** This module provides the student with the opportunity to undertake the practical and development work for a major, in-depth individual project in an aspect of their programme. Normally the idea for project will be devised by the student and development work will be undertaken during this module. During term 1 proof of concept development will be undertaken to support the specification of a well-researched project proposal document. During term 2 the main development work for the project will be undertaken and completed.
+
+**Coursework:**
+
+**Grade:**
+
+</details>
+
