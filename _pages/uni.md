@@ -11,7 +11,7 @@ Here I've included what is most of the assessed coursework I've created for BSc 
 <details markdown = 1>
   <summary><b>CMP 101 - Computer Hardware Architecture and Operating Systems</b></summary>
   
-**Description:** Introduction to the core ideas of computer architecture, building a mental model of the functioning of a typical computer system that can be used to reason about system (hardware/software) behaviour.
+**Description:** Introduction to the core ideas of computer architecture, building a mental model of the functionality of a typical computer system that can be used to reason about system (hardware/software) behaviour.
 
 **Coursework:**
 - Lab exercises:
@@ -31,11 +31,12 @@ Here I've included what is most of the assessed coursework I've created for BSc 
 <details markdown = 1>
   <summary><b>CMP 104 - Programming with C++</b></summary>
 
-**Description:** Introduction of fundamental programming constructs within the C++ language. A problem-based approach to develop skills fundamental to all object-oriented programming languages.
+**Description:** Introduction of fundamental programming constructs within the C++ language with a problem-based approach to develop skills fundamental to all object-oriented programming languages.
 
 **Coursework:**
-- Weekly quizzes
-- Coding exercises
+- Portfolio:
+  - Weekly quizzes
+  - Coding exercises
 - Project - cyber pet (a simple, interactive program that simulates taking care of a pet).
 
 **Grade:** A+
@@ -82,7 +83,7 @@ Here I've included what is most of the assessed coursework I've created for BSc 
 **Description:** Introduction to the issues and practicalities involved in securing computer systems and the framework within which computer security specialists would need to operate.
 
 **Coursework:**
-- Group presentation on cybersecurity laws in the UK and an another country (our group chose Russia).
+- Group presentation on cybersecurity laws in the UK and an another country of choice (our group chose Russia).
 - A small research project related to an topic of computer security that interests me. I chose steganography. [(Link)](https://antinatura.github.io/assets/documents/CMP110_Unit2_Report.pdf)
 
 **Grade:** A
@@ -183,7 +184,7 @@ Here I've included what is most of the assessed coursework I've created for BSc 
 <details markdown = 1>
   <summary><b>CMP 308 – Professional Project Planning and Prototyping</b></summary>
 
-**Description:** Teaches project management concepts to create a project proposal in a professional manner. Tasks student teams with project briefs drawn from industry/or research based problems. Expects full team engagement in roles by communicating effectively with project stakeholders, contributing to the planning of the project, developing artefacts or prototypes, writing associated documentation, and creating and presenting the client pitch.
+**Description:** Teaches project management concepts to create a project proposal in a professional manner. Tasks student teams with project briefs drawn from industry or research based problems. Expects full team engagement in roles by communicating effectively with project stakeholders, contributing to the planning of the project, developing artefacts or prototypes, writing associated documentation, and creating and presenting the client pitch.
 
 **Coursework:**
 - Create and present a client pitch for the project that the team was assigned. 
@@ -243,7 +244,7 @@ Company network security evaluation. I was given a Kali Linux machine connected 
 <details markdown = 1>
   <summary><b>CMP 320 – Advanced Ethical Hacking</b></summary>
 
-**Description:** Covers different areas of Ethical Hacking and is geared towards personal research and experimentation. The three major topics included are scripting, malware analysis and binary auditing.
+**Description:** Covers different areas of Ethical Hacking and is geared towards personal research and experimentation. The three major topics included are scripting, malware analysis, and binary auditing.
 
 **Coursework:**
 - Malware analysis. I was provided with a Windows virtual machine with a Flare VM installation and 9 malware samples. I had to choose one sample and perform a malware analysis investigation on it. [(Link)](https://antinatura.github.io/assets/documents/CMP320_U1_MalwareAnalysis.pdf)
@@ -258,7 +259,7 @@ Company network security evaluation. I was given a Kali Linux machine connected 
 <details markdown = 1>
   <summary><b>CMP 408 – IoT and Cloud Secure Development</b></summary>
 
-**Description:** Explores system programming and development in kernel and user space, also focusing on the security implications of such systems. Develops comprehension of system and device internal operations which includes understanding operating system internals and how new applications for these systems can be implemented in scenarios such as IoT deployments and how cloud and web technologies can be utilised in conjunction with such devices.
+**Description:** Explores system programming and development in kernel and user space, also focusing on the security implications of such systems. Develops comprehension of system and device internal operations which includes understanding operating system internals and how new applications for these systems can be implemented in scenarios such as IoT deployment and how cloud and web technologies can be utilised in conjunction with such devices.
 
 **Coursework:**
 
@@ -269,7 +270,7 @@ Company network security evaluation. I was given a Kali Linux machine connected 
 <details markdown = 1>
   <summary><b>CMP 416 – Advanced Digital Forensics</b></summary>
 
-**Description:** Looks at the forensic investigation of a network and the challenges analysts face when investigating network traffic. Provides students with an understanding of the underlying network principles important to comprehending network evidence. At the end of the module, students will be able to perform an investigation with a comprehensive, systematic approach to discover and examine evidence from networking infrastructure.
+**Description:** Looks at the forensic investigation of a network and the challenges analysts face when investigating network traffic. Provides an understanding of the underlying network principles important to comprehending network evidence. Develops a comprehensive and systematic investigation approach to discover and examine evidence from networking infrastructure.
 
 **Coursework:**
 
