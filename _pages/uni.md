@@ -262,6 +262,8 @@ Company network security evaluation. I was given a Kali Linux machine connected 
 **Description:** Explores system programming and development in kernel and user space, also focusing on the security implications of such systems. Develops comprehension of system and device internal operations which includes understanding operating system internals and how new applications for these systems can be implemented in scenarios such as IoT deployment and how cloud and web technologies can be utilised in conjunction with such devices.
 
 **Coursework:**
+- 3 Quizzes
+- IoT mini project that demonstrates the learning outcomes of the module by utlising appropriate software, hardware, kernel programming, and cloud infrastrucure. I created a tool that gets Nordpool electricity tariff data for the current and next day daiky. The tariff values are colour-coded based on how expensive they are (i.e., red is expensive, green is affordable, etc.). An LED light is changed every hour to a colour that corresponds with the colour-coded tariff value for that time. The coloured 2 day data is also sent to displayed on a AWS hosted website.
 
 **Grade:**
 
@@ -272,7 +274,7 @@ Company network security evaluation. I was given a Kali Linux machine connected 
 
 **Description:** Looks at the forensic investigation of a network and the challenges analysts face when investigating network traffic. Provides an understanding of the underlying network principles important to comprehending network evidence. Develops a comprehensive and systematic investigation approach to discover and examine evidence from networking infrastructure.
 
-**Coursework:**
+**Coursework:** Undertake a network forensics investigation of 3 network traffic capture files that relate to a drug trafficking case.
 
 **Grade:**
 
@@ -284,6 +286,8 @@ Company network security evaluation. I was given a Kali Linux machine connected 
 **Description:** This module provides the student with the opportunity to undertake the practical and development work for a major, in-depth individual project in an aspect of their programme. Normally the idea for project will be devised by the student and development work will be undertaken during this module. During term 1 proof of concept development will be undertaken to support the specification of a well-researched project proposal document. During term 2 the main development work for the project will be undertaken and completed.
 
 **Coursework:**
+- Project Proposal
+- Feasibility Demo
 
 **Grade:**
 
