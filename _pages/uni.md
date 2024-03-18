@@ -248,7 +248,7 @@ Company network security evaluation. I was given a Kali Linux machine connected 
 
 **Coursework:**
 - Malware analysis. I was provided with a Windows virtual machine with a Flare VM installation and 9 malware samples. I had to choose one sample and perform a malware analysis investigation on it. [(Link)](https://antinatura.github.io/assets/documents/CMP320_U1_MalwareAnalysis.pdf)
-- Scripting project. Develop a script related to some area of cybersecurity and produce a report documenting the process. I chose to create a tool that visualises website cookie values over time. [(Link)](https://antinatura.github.io/assets/documents/CMP320_U2_ScriptingMiniProject.pdf)
+- Scripting project. Develop a script related to some area of cybersecurity and produce a report documenting the process. I chose to create a tool that visualises website cookie values over time. (Links: [Code](https://github.com/antinatura/CMP320-Cookie-Script), [Report](https://antinatura.github.io/assets/documents/CMP320_U2_ScriptingMiniProject.pdf))
 
 **Grade:** A+
 
@@ -263,9 +263,9 @@ Company network security evaluation. I was given a Kali Linux machine connected 
 
 **Coursework:**
 - 3 Quizzes
-- IoT mini project that demonstrates the learning outcomes of the module by utlising appropriate software, hardware, kernel programming, and cloud infrastrucure. I created a tool that gets Nordpool hourly electricity tariff data for the current and next day daily. The tariff values are colour-coded based on how expensive they are (i.e., red is expensive, green is affordable, etc.). An LED light is changed every hour to a colour that corresponds with the colour-coded tariff value for that time. The coloured 2 day data is also sent to displayed on a AWS hosted website.
+- IoT mini project that demonstrates the learning outcomes of the module by utlising appropriate software, hardware, kernel programming, and cloud infrastrucure. I created a tool that gets Nordpool hourly electricity tariff data for the current and next day daily. The tariff values are colour-coded based on how expensive they are (i.e., red is expensive, green is affordable, etc.). An LED light is changed every hour to a colour that corresponds with the colour-coded tariff value for that time. The coloured 2 day data is also sent to displayed on a AWS hosted website. (Links: [Report](https://github.com/antinatura/CMP408-Report.pdf), [Poster](https://antinatura.github.io/assets/documents/CMP408_Poster.pdf))
 
-**Grade:**
+**Grade A+
 
 </details>
 
@@ -274,9 +274,9 @@ Company network security evaluation. I was given a Kali Linux machine connected 
 
 **Description:** Looks at the forensic investigation of a network and the challenges analysts face when investigating network traffic. Provides an understanding of the underlying network principles important to comprehending network evidence. Develops a comprehensive and systematic investigation approach to discover and examine evidence from networking infrastructure.
 
-**Coursework:** Undertake a network forensics investigation of 3 network traffic capture files that relate to a drug trafficking case.
+**Coursework:** Undertake a network forensics investigation of 3 network traffic capture files that relate to a drug trafficking case. [(Link)](https://antinatura.github.io/assets/documents/CMP416_U1.pdf)
 
-**Grade:**
+**Grade:** A
 
 </details>
 
