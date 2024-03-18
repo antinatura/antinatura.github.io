@@ -263,7 +263,7 @@ Company network security evaluation. I was given a Kali Linux machine connected 
 
 **Coursework:**
 - 3 Quizzes
-- IoT mini project that demonstrates the learning outcomes of the module by utlising appropriate software, hardware, kernel programming, and cloud infrastrucure. I created a tool that gets Nordpool hourly electricity tariff data for the current and next day daily. The tariff values are colour-coded based on how expensive they are (i.e., red is expensive, green is affordable, etc.). An LED light is changed every hour to a colour that corresponds with the colour-coded tariff value for that time. The coloured 2 day data is also sent to displayed on a AWS hosted website. (Links: [Report](https://github.com/antinatura/CMP408-Report.pdf), [Poster](https://antinatura.github.io/assets/documents/CMP408_Poster.pdf))
+- IoT mini project that demonstrates the learning outcomes of the module by utlising appropriate software, hardware, kernel programming, and cloud infrastrucure. I created a tool that gets Nordpool hourly electricity tariff data for the current and next day daily. The tariff values are colour-coded based on how expensive they are (i.e., red is expensive, green is affordable, etc.). An LED light is changed every hour to a colour that corresponds with the colour-coded tariff value for that time. The coloured 2 day data is also sent to displayed on a AWS hosted website. (Links: [Report](https://github.com/antinatura/assets/documents/CMP408-Report.pdf), [Poster](https://antinatura.github.io/assets/documents/CMP408_Poster.pdf))
 
 **Grade A+
 
