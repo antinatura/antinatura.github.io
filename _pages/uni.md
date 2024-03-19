@@ -222,7 +222,7 @@ Company network security evaluation. I was given a Kali Linux machine connected 
 
 **Description:** Develops a critical understanding of software development practices used to create applications for a range of mobile devices.
 
-**Coursework:** Develop an Android application. I created an implementation of a biodynamic calendar in Java. [(Link)](https://github.com/antinatura/CMP309-Biodynamic-Calendar)
+**Coursework:** Develop an Android application. I created an implementation of a biodynamic calendar in Java. (Links: [Code](https://github.com/antinatura/CMP309-Biodynamic-Calendar), [Presentation](https://antinatura.github.io/assets/documents/App_presentation.pdf))
 
 **Grade:** A
 
@@ -263,7 +263,7 @@ Company network security evaluation. I was given a Kali Linux machine connected 
 
 **Coursework:**
 - 3 Quizzes
-- IoT mini project that demonstrates the learning outcomes of the module by utlising appropriate software, hardware, kernel programming, and cloud infrastrucure. I created a tool that gets Nordpool hourly electricity tariff data for the current and next day daily. The tariff values are colour-coded based on how expensive they are (i.e., red is expensive, green is affordable, etc.). An LED light is changed every hour to a colour that corresponds with the colour-coded tariff value for that time. The coloured 2 day data is also sent to displayed on a AWS hosted website. (Links: [Report](https://antinatura.github.io/assets/documents/CMP408_Report.pdf), [Poster](https://antinatura.github.io/assets/documents/CMP408_Poster.pdf))
+- IoT mini project that demonstrates the learning outcomes of the module by utlising appropriate software, hardware, kernel programming, and cloud infrastrucure. I created a tool that gets Nordpool hourly electricity tariff data for the current and next day daily. The tariff values are colour-coded based on how expensive they are (i.e., red is expensive, green is affordable, etc.). An LED light is changed every hour to a colour that corresponds with the colour-coded tariff value for that time. TThe coloured 2 day data is also sent to a simple site hosted on an AWS EC2 instance and displayed. (Links: [Code](https://github.com/antinatura/CMP408-Nordpi), [Report](https://antinatura.github.io/assets/documents/CMP408_Report.pdf), [Poster](https://antinatura.github.io/assets/documents/CMP408_Poster.pdf))
 
 **Grade:** A+
 
@@ -281,6 +281,21 @@ Company network security evaluation. I was given a Kali Linux machine connected 
 </details>
 
 <details markdown = 1>
+  <summary><b>CMP 417 – Engineering Resilient Systems</b></summary>
+
+**Description:** TBA
+
+**Coursework:** <br>
+Three reports:
+- Software Security
+- Machine Learning
+- Human-Centred Security
+
+**Grade:**
+
+</details>
+
+<details markdown = 1>
   <summary><b>CMP 400 – Honours Project Proposal and Execution</b></summary>
 
 **Description:** This module provides the student with the opportunity to undertake the practical and development work for a major, in-depth individual project in an aspect of their programme. Normally the idea for project will be devised by the student and development work will be undertaken during this module. During term 1 proof of concept development will be undertaken to support the specification of a well-researched project proposal document. During term 2 the main development work for the project will be undertaken and completed.
@@ -288,8 +303,21 @@ Company network security evaluation. I was given a Kali Linux machine connected 
 **Coursework:**
 - Project Proposal
 - Feasibility Demo
+- Professionalism: Progress Meeting and Check
+- Dissertation Draft Chapter Submission <br><br>
+- Honours Project Artefact 
 
 **Grade:**
 
 </details>
 
+<details markdown = 1>
+  <summary><b>CMP 403 – Honours Project Dissertation</b></summary>
+
+**Description:** TBA
+
+**Coursework:** Write a dissertation lol.
+
+**Grade:**
+
+</details>
