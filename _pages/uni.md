@@ -283,7 +283,7 @@ Company network security evaluation. I was given a Kali Linux machine connected 
 <details markdown = 1>
   <summary><b>CMP 417 – Engineering Resilient Systems</b></summary>
 
-**Description:** TBA
+**Description:** Examines social and technical approaches to better security resilience in systems through consideration of attack and defence methods.
 
 **Coursework:** <br>
 Three reports:
@@ -314,7 +314,7 @@ Three reports:
 <details markdown = 1>
   <summary><b>CMP 403 – Honours Project Dissertation</b></summary>
 
-**Description:** TBA
+**Description:** This module provides the student with the opportunity to present as a dissertation a major, in-depth individual project in an aspect of their programme. Normally the project will be devised by the student and should be drawn from current industry and/or research based problem areas. The production of the dissertation involves the student in presenting the work undertaken in a structured and coherent manner which allows for critical and insightful review and evaluation of the project and artefact produced. The dissertation will be written in academic style appropriate to the domain of study.
 
 **Coursework:** Write a dissertation lol.
 
