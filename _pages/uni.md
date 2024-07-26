@@ -4,7 +4,7 @@ layout: page
 title: Uni Portfolio
 ---
 
-Here I've included what is most of the assessed coursework I've created for BSc (Hons) Ethical Hacking (and electives) so far. 
+Here I've included what is most of the assessed coursework (for core and elective modules) that I've created over the four years of Abertay University's BSc (Hons) Ethical Hacking course which I graudated from in July 2024 with a First (win).
 
 ## Year 1
 
