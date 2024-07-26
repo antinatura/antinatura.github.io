@@ -291,7 +291,7 @@ Three reports:
 - Machine Learning
 - Human-Centred Security
 
-**Grade:**
+**Grade:** B+
 
 </details>
 
@@ -304,10 +304,10 @@ Three reports:
 - Project Proposal
 - Feasibility Demo
 - Professionalism: Progress Meeting and Check
-- Dissertation Draft Chapter Submission <br><br>
-- Honours Project Artefact 
+- Dissertation Draft Chapter Submission
+- <ins>Honours Project Artefact</ins> 
 
-**Grade:**
+**Grade:** A+
 
 </details>
 
@@ -316,8 +316,8 @@ Three reports:
 
 **Description:** This module provides the student with the opportunity to present as a dissertation a major, in-depth individual project in an aspect of their programme. Normally the project will be devised by the student and should be drawn from current industry and/or research based problem areas. The production of the dissertation involves the student in presenting the work undertaken in a structured and coherent manner which allows for critical and insightful review and evaluation of the project and artefact produced. The dissertation will be written in academic style appropriate to the domain of study.
 
-**Coursework:** Write a dissertation lol.
+**Coursework:** Write a dissertation :)
 
-**Grade:**
+**Grade:** A
 
 </details>
